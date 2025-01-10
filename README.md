@@ -1,5 +1,5 @@
 
-# 对对碰 Clash: A Fantasy Tactical RPG ⚔️✨  
+# 对对碰 Mystic Clash: A Fantasy Tactical RPG ⚔️✨  
 
 ### Overview  
 **Mystic Clash** is a turn-based tactical RPG set in a **Western fantasy** world of magic and mystery (but with voices in Chinese). This project is my personal exercise in mastering **Python OOP principles** and managing **large-scale file structures**. It’s a work in progress, and I plan to keep expanding and improving it over time. It works based on seperated "game" logic and "animation" logic.
@@ -27,3 +27,4 @@ This project highlights:
 - **File Organization**: Structuring large codebases for scalability and readability.  
 - **Game Logic Design**: Implementing random targeting logic for cahracters and ensuring balanced mechanics.  
 
+Run the only .ipynb to have a try.
